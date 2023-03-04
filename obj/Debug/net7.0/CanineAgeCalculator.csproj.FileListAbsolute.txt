@@ -1,0 +1,15 @@
+C:\Users\NDULUE\RiderProjects\Intro\CanineAgeCalculator\bin\Debug\net7.0\CanineAgeCalculator.exe
+C:\Users\NDULUE\RiderProjects\Intro\CanineAgeCalculator\bin\Debug\net7.0\CanineAgeCalculator.deps.json
+C:\Users\NDULUE\RiderProjects\Intro\CanineAgeCalculator\bin\Debug\net7.0\CanineAgeCalculator.runtimeconfig.json
+C:\Users\NDULUE\RiderProjects\Intro\CanineAgeCalculator\bin\Debug\net7.0\CanineAgeCalculator.dll
+C:\Users\NDULUE\RiderProjects\Intro\CanineAgeCalculator\bin\Debug\net7.0\CanineAgeCalculator.pdb
+C:\Users\NDULUE\RiderProjects\Intro\CanineAgeCalculator\obj\Debug\net7.0\CanineAgeCalculator.csproj.AssemblyReference.cache
+C:\Users\NDULUE\RiderProjects\Intro\CanineAgeCalculator\obj\Debug\net7.0\CanineAgeCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NDULUE\RiderProjects\Intro\CanineAgeCalculator\obj\Debug\net7.0\CanineAgeCalculator.AssemblyInfoInputs.cache
+C:\Users\NDULUE\RiderProjects\Intro\CanineAgeCalculator\obj\Debug\net7.0\CanineAgeCalculator.AssemblyInfo.cs
+C:\Users\NDULUE\RiderProjects\Intro\CanineAgeCalculator\obj\Debug\net7.0\CanineAgeCalculator.csproj.CoreCompileInputs.cache
+C:\Users\NDULUE\RiderProjects\Intro\CanineAgeCalculator\obj\Debug\net7.0\CanineAgeCalculator.dll
+C:\Users\NDULUE\RiderProjects\Intro\CanineAgeCalculator\obj\Debug\net7.0\refint\CanineAgeCalculator.dll
+C:\Users\NDULUE\RiderProjects\Intro\CanineAgeCalculator\obj\Debug\net7.0\CanineAgeCalculator.pdb
+C:\Users\NDULUE\RiderProjects\Intro\CanineAgeCalculator\obj\Debug\net7.0\CanineAgeCalculator.genruntimeconfig.cache
+C:\Users\NDULUE\RiderProjects\Intro\CanineAgeCalculator\obj\Debug\net7.0\ref\CanineAgeCalculator.dll
